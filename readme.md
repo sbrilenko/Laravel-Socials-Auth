@@ -7,3 +7,5 @@
 - edit social keys and secret clients to your own in config/services.php
 - edit config/databease.php to configure db
 - run: php artisan serve
+
+![alt text](https://github.com/sbrilenko/Laravel-Socials-Auth/blob/master/mockup/main_page.jpg)
